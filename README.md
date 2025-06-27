@@ -73,10 +73,10 @@ npm start
 ## 📸 Screenshots
 
 ### Register Page
-![Register](.Register.png)
+![Register](Register.png)
 
 ### Login Page
-![Login](.Login.png)
+![Login](Login.png)
 
 📄 License
 MIT License © 2025 Sinura Damsath Perera
