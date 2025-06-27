@@ -73,13 +73,10 @@ npm start
 ## 📸 Screenshots
 
 ### Register Page
-![Register](./screenshots/register.png)
+![Register](.Register.png)
 
 ### Login Page
-![Login](./screenshots/login.png)
-
-### Chat Interface
-![Chat](./screenshots/chat.png)
+![Login](.Login.png)
 
 📄 License
 MIT License © 2025 Sinura Damsath Perera
